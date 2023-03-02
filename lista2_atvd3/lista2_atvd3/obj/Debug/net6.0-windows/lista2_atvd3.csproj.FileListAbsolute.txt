@@ -1,0 +1,17 @@
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\bin\Debug\net6.0-windows\lista2_atvd3.exe
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\bin\Debug\net6.0-windows\lista2_atvd3.deps.json
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\bin\Debug\net6.0-windows\lista2_atvd3.runtimeconfig.json
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\bin\Debug\net6.0-windows\lista2_atvd3.dll
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\bin\Debug\net6.0-windows\lista2_atvd3.pdb
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.Form1.resources
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.dll
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\refint\lista2_atvd3.dll
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.pdb
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\lista2_atvd3.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Documentos\Projetos_VisualStudio\lista2_atvd3\lista2_atvd3\obj\Debug\net6.0-windows\ref\lista2_atvd3.dll
