@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cesar\\OneDrive\\Documentos\\Projetos_VisualStudio\\lista2_atvd3\\lista2_atvd3\\lista2_atvd3.csproj": {}
+    "C:\\Users\\cesar\\OneDrive\\Área de Trabalho\\Projeto-cs\\lista2_atvd3\\lista2_atvd3\\lista2_atvd3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cesar\\OneDrive\\Documentos\\Projetos_VisualStudio\\lista2_atvd3\\lista2_atvd3\\lista2_atvd3.csproj": {
+    "C:\\Users\\cesar\\OneDrive\\Área de Trabalho\\Projeto-cs\\lista2_atvd3\\lista2_atvd3\\lista2_atvd3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cesar\\OneDrive\\Documentos\\Projetos_VisualStudio\\lista2_atvd3\\lista2_atvd3\\lista2_atvd3.csproj",
+        "projectUniqueName": "C:\\Users\\cesar\\OneDrive\\Área de Trabalho\\Projeto-cs\\lista2_atvd3\\lista2_atvd3\\lista2_atvd3.csproj",
         "projectName": "lista2_atvd3",
-        "projectPath": "C:\\Users\\cesar\\OneDrive\\Documentos\\Projetos_VisualStudio\\lista2_atvd3\\lista2_atvd3\\lista2_atvd3.csproj",
+        "projectPath": "C:\\Users\\cesar\\OneDrive\\Área de Trabalho\\Projeto-cs\\lista2_atvd3\\lista2_atvd3\\lista2_atvd3.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cesar\\OneDrive\\Documentos\\Projetos_VisualStudio\\lista2_atvd3\\lista2_atvd3\\obj\\",
+        "outputPath": "C:\\Users\\cesar\\OneDrive\\Área de Trabalho\\Projeto-cs\\lista2_atvd3\\lista2_atvd3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
